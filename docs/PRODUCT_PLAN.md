@@ -1,3 +1,5 @@
+> **Current demo update — 29 October 2026:** The owner has authorized automatic lease expiry. Published browser-demo leases expire at their stored deadline; expired space becomes available and renewal requires a new request and approval. No automatic payments or renewals. The default view is browsing; use Get a plot for selection. Demo controls in the footer allow approval duration (1-minute test / 30 days / 90 days) and publication. Records persist in this browser only, not a shared booking database. External advertiser navigation is disabled. Email API is implemented but sending configuration is awaiting explicit credential-transfer approval; the UI offers an email-app draft or local simulation and never claims an unsent email succeeded. The hosted demo is authorized. Earlier local-only/manual-expiry statements below describe the initial plan and are superseded by this update.
+
 # PixelPlaza: decision memo and phased plan
 Prepared 29 October 2026 for Kushagra Pandey.
 
