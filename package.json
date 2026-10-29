@@ -1,0 +1,9 @@
+{
+  "name": "pixelplaza-local-preview",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "node server.cjs",
+    "test": "node --test tests/*.test.cjs"
+  }
+}
